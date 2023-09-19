@@ -1,0 +1,65 @@
+[
+    {
+        "course_title": "Introduction to Python Programming",
+        "cover": " https://i.ibb.co/fG61Fq5/Rectangle-2.png  ",
+        "description": "Learn the fundamentals of Python programming language and start your coding journey.",
+        "total_price": 199.99,
+        "credit_hours": 1
+    },
+    {
+        "course_title": "Web Development Bootcamp",
+        "cover": " https://i.ibb.co/6gx9fkf/Rectangle-2-1.png  ",
+        "description": "Master HTML, CSS, and JavaScript to become a proficient web developer.",
+        "total_price": 299.99,
+        "credit_hours": 2
+    },
+    {
+        "course_title": "Java Programming Advanced Techniques",
+        "cover": "  https://i.ibb.co/MfGC1KK/Rectangle-2-2.png ",
+        "description": "Take your Java skills to the next level with advanced programming techniques and best practices.",
+        "total_price": 249.99,
+        "credit_hours": 5
+    },
+    {
+        "course_title": "C# for Game Development",
+        "cover": " https://i.ibb.co/SQ47wgd/Rectangle-2-3.png  ",
+        "description": "Learn C# programming and Unity game engine to create exciting video games.",
+        "total_price": 349.99,
+        "credit_hours": 10
+    },
+    {
+        "course_title": "Data Science and Machine Learning",
+        "cover": "https://i.ibb.co/TRrcg3p/Rectangle-2-4.png",
+        "description": "Explore data analysis, machine learning, and data visualization using Python.",
+        "total_price": 399.99,
+        "credit_hours": 7
+    },
+    {
+        "course_title": "Full-Stack JavaScript Development",
+        "cover": "https://i.ibb.co/QPQ5Cyw/Rectangle-2-5.png ",
+        "description": "Become a full-stack developer by mastering both front-end and back-end JavaScript technologies.",
+        "total_price": 329.99,
+        "credit_hours": 4
+    },
+    {
+        "course_title": "Mobile App Development with React Native",
+        "cover": "https://i.ibb.co/fDDG7fh/Rectangle-2-6.png",
+        "description": "Build cross-platform mobile apps using React Native and JavaScript.",
+        "total_price": 279.99,
+        "credit_hours": 3
+    },
+    {
+        "course_title": "SQL Database Administration",
+        "cover": " https://i.ibb.co/bgK0ZHX/Rectangle-3.png ",
+        "description": "Learn SQL database management and administration for efficient data handling.",
+        "total_price": 249.99,
+        "credit_hours": 9
+    },
+    {
+        "course_title": "Cybersecurity Fundamentals",
+        "cover": " https://i.ibb.co/DkBZGF1/Rectangle-3-1.png  ",
+        "description": "Gain essential knowledge in cybersecurity and protect digital assets from threats.",
+        "total_price": 199.99,
+        "credit_hours": 12
+    }
+]
